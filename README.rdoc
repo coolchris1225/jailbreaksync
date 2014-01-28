@@ -1,28 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi! and welcome to jailbreak sync. feel free to make a branch and/or notify me of your ideas!
 
-Things you may want to cover:
+I'm making this website and concept an internet community project. I just really want to see it happen!
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This might go absolutely no where but its only going to progress as long as there is intrest!
 
 
-Please feel free to use a different markup language if you do not plan to run
+
+
 <tt>rake doc:app</tt>.
